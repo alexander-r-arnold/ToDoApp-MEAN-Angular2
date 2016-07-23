@@ -1,0 +1,28 @@
+{
+  "name": "todoapp-mean-angular2",
+  "version": "1.0.0",
+  "description": "To Do List application built with angular 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander-r-arnold/ToDoApp-MEAN-Angular2.git"
+  },
+  "author": "Alexander Arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander-r-arnold/ToDoApp-MEAN-Angular2/issues"
+  },
+  "homepage": "https://github.com/alexander-r-arnold/ToDoApp-MEAN-Angular2#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
