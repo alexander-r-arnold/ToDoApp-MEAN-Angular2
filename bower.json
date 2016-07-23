@@ -1,0 +1,20 @@
+{
+  "name": "todoapp-mean-angular2",
+  "description": "To Do List application built with angular 2.0",
+  "main": "index.js",
+  "authors": [
+    "Alexander Arnold"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexander-r-arnold/ToDoApp-MEAN-Angular2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
